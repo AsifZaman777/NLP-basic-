@@ -16,3 +16,13 @@ for i in punctuation:
     random_string=random_string.replace(i, ' ')
 
 print(random_string.split())
+
+#stopwords should be eleminated 
+
+stopwords = ['at', 'the', 'of', 'due','please','has','yes']
+
+for i in stopwords:
+    if i in random_string:
+        random_string=random_string.replace(i, ' ')
+
+print( random_string.split()) #stop words are eleminated
