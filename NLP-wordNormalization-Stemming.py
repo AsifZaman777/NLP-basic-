@@ -1,6 +1,7 @@
 import nltk
 from nltk import PorterStemmer
 
+
 ps= PorterStemmer()
 
 text_file=open('stem_words.txt','r')
