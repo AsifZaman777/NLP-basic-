@@ -1,0 +1,3 @@
+The spleling is not corrrect. But all the spellings will be 
+corected if we can use the nural language processing
+and if we use the libraryyy parfectly
