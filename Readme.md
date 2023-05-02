@@ -1,6 +1,6 @@
 # NLP using python
 
-##NLP Word Normalization -
+## NLP Word Normalization -
 
 Word normalization is a process of converting different forms of a word into a common base form.
 Word normalization is a common preprocessing step in many NLP tasks, such as text classification, information retrieval and machine translation.
