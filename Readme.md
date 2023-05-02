@@ -17,3 +17,13 @@ There are several types of word normalization techniques, including:
 Natural Language Tool Kit is a popular python library used for natural language processing tasks such as tokenization, lemmatization, parts of speech tagging, parsing and sentiment analysis among others.
 
 NTLK mainly providdes large collection of corpora `text dataset` as well as pre trained models for many natural processing tasks.
+
+
+## TextBlob module -
+TextBlob library offers a range of NLP functionalities such as -
+
+- Sentiment analysis: TextBlob can be used to determine the sentiment of a piece of text. ex=> `whether it expresses a positive or negative sentiment`
+- Part of speech tagging: TextBlob can be used to identify the parts of speech of words in a piece of text, such as nouns, verbs, adjectives and adverbs.
+- Noun phrase extraction: TextBlob can be used to identify and extract noun phrases from a piece of texts
+- Text classification - TextBlob can be used to classify text into different categories based on its content.
+- Spelling correction: TextBlob can be used to correct spelling mistakes in a piece of texts
