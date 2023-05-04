@@ -14,6 +14,10 @@ conn.request("GET", "/business-reviews?business_id=pearls-deluxe-burgers-san-fra
 res = conn.getresponse()
 data = res.read()
 
+
+print(data.decode('utf-8'))
+
+
 # parse the json data
 
 json_data = json.loads(data, strict=False)
