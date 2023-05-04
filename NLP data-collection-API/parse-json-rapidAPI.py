@@ -27,6 +27,8 @@ review_data=json_data['data']['reviews']
 reviews= []
 
 #fetch the required data from yelp reviews
+#mainly the reveiws from the users are fetching from the api 
+#review_id, review_text, rating, location, time_created are getting from json
 
 for review in review_data:
     review ={
