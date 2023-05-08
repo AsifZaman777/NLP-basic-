@@ -20,4 +20,3 @@ for s in user_test_review:
             print(s+emoji.emojize(":dissapointed:"))
             
 
-
