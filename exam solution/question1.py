@@ -69,24 +69,4 @@ for review in load_data_frame:
 
 
 
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+       
